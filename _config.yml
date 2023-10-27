@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Piyushkumar (Piyush) Patel"
+title                    : "Dr. Piyushkumar Patel"
 title_separator          : "-"
 name                     : &name "Piyushkumar Patel"
 description              : &description "personal description"
