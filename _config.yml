@@ -84,11 +84,11 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Ahmedabad, India"
-  employer         :
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=7JMVXD4AAAAJ&hl=en"
+  email            : "piyushether@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Piyushkumar-Patel"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/PiyuSat"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/piyush_jpl"
   vine             :
   weibo            :
   xing             :
