@@ -85,7 +85,7 @@ author:
   bio              : "Atmospehric Scientist"
   location         : "Ahmedabad, India"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7JMVXD4AAAAJ&hl=en"
   email            : "piyushether@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Piyushkumar-Patel"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/PiyuSat"
+  github           : "PiyuSat"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/piyush_jpl"
+  twitter          : "piyush_jpl"
   vine             :
   weibo            :
   xing             :
