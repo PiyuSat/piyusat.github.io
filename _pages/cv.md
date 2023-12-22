@@ -13,10 +13,10 @@ You can find my complete CV in PDF form for download [here](/files/Piyush_CV.pdf
 
 Education
 ======
-* Ph.D in Physics (Atmospheric Science) | 2019 | Gujarat University/Space Applications Centre, ISRO, India
-* P.G. Diploma in Remote Sensing (Atmospheric Science) | 2012 | Indian Institute of Remote Sensing, ISRO, India
-* M.Sc. in Condensed Matter Physics | 2011 | Sardar Patel University, India
-* B.Sc. in Physics | 2009 | Veer Narmad South Gujarat University, India
+* Ph.D in Physics (Atmospheric Science) \| 2019 \| Gujarat University/Space Applications Centre, ISRO, India
+* P.G. Diploma in Remote Sensing (Atmospheric Science) \| 2012 \| Indian Institute of Remote Sensing, ISRO, India
+* M.Sc. in Condensed Matter Physics \| 2011 \| Sardar Patel University, India
+* B.Sc. in Physics \| 2009 \| Veer Narmad South Gujarat University, India
 
 Work experience
 ======
@@ -24,13 +24,13 @@ Work experience
   * MethaneSAT LLC (A wholly owned by Environmental Defense Fund), Tx, USA
   * Duties included: Tagging issues
 
-* NASA Postdoctoral Program (NPP) Fellow | September 2019 - September 2022
+* NASA Postdoctoral Program (NPP) Fellow \| September 2019 - September 2022
   * NASA Jet Propulsion Laboratory (JPL), California Institute of Technology, Pasadena, CA, USA
 
-* Postdoctoral Fellow | January 2018 - September 2019: 
+* Postdoctoral Fellow \| January 2018 - September 2019
   * Physical Research Laboratory (PRL), Ahmedabad, India
 
-* Research Fellow | August 2012 - August 2017
+* Research Fellow \| August 2012 - August 2017
   * Space Applications Centre (SAC), ISRO, Ahmedabad, India
 
 
