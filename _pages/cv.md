@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="/files/Piyush_CV.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0">/iframe>
+You can download a PDF copy of my CV [here](/files/Piyush_CV.pdf).
+
+
 Education
 ======
 * Ph.D in Physics (Atmospheric Science), Gujarat University / Space Applications Centre, ISRO, Ahmedabad, India, 2019
