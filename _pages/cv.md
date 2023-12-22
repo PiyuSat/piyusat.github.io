@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics (Atmospheric Science), Gujarat University / Space Applications Centre, ISRO, Ahmedabad, India, 2019
+* P.G. Diploma in Remote Sensing (Atmospheric Science), Indian Institute of Remote Sensing, ISRO, Dehradun, India, 2012
+* M.Sc. in Condensed Matter Physics, Sardar Patel University, Vallabh Vidhyanagar, India, 2011
+* B.Sc. in Physics, Veer Narmad South Gujarat University, Surat, India, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* November 2022 - Present: Remote Sensing Scientist (Consulting)
+  * MethaneSAT LLC (A wholly owned by Environmental Defense Fund), Tx, USA
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2019 - September 2022: NASA Postdoctoral Program (NPP) Fellow
+  * NASA Jet Propulsion Laboratory (JPL), California Institute of Technology, Pasadena, CA, USA
+
+* January 2018 - September 2019: Postdoctoral Fellow
+  * Physical Research Laboratory (PRL), Ahmedabad, India
+
+* August 2012 - August 2017: Research Fellow
+  * Space Applications Centre (SAC), ISRO, Ahmedabad, India
+
+
   
 Skills
 ======
