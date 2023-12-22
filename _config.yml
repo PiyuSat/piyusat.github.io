@@ -189,6 +189,7 @@ collections:
     permalink: /:collection/:path/
 
 
+
 # Defaults
 defaults:
   # _posts
@@ -309,3 +310,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-midnight
