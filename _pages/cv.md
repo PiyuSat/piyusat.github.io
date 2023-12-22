@@ -7,13 +7,9 @@ redirect_from:
   - /resume
 ---
 
-#<iframe src="/files/Piyush_CV.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0">/iframe>
-#You can download a PDF copy of my CV [here](/files/Piyush_CV.pdf).
-
 You can find my complete CV in PDF form for download [here](/files/Piyush_CV.pdf) (updated December 22 2023)
+
 {% include base_path %}
-
-
 
 Education
 ======
