@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Remote Sensing Scientist (Consulting) | November 2022 - Present: 
+* Remote Sensing Scientist (Consulting) \| November 2022 - Present
   * MethaneSAT LLC (A wholly owned by Environmental Defense Fund), Tx, USA
   * Duties included: Tagging issues
 
