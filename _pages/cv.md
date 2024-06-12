@@ -20,9 +20,11 @@ Education
 
 Work experience
 ======
-* Remote Sensing Scientist (Consulting) \| November 2022 - Present
+* Scientist C \| April 2024
+  * SRON Nethelands Institute for Space Research, Leiden, Netherlands
+    
+* Remote Sensing Scientist (Consulting) \| November 2022 - March 2024
   * MethaneSAT LLC (A wholly owned by Environmental Defense Fund), Tx, USA
-  * Duties included: Tagging issues
 
 * NASA Postdoctoral Program (NPP) Fellow \| September 2019 - September 2022
   * NASA Jet Propulsion Laboratory (JPL), California Institute of Technology, Pasadena, CA, USA
