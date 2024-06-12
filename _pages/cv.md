@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my complete CV in PDF form for download [here](/files/Piyush_CV.pdf) (updated December 22 2023)
+You can find my complete CV in PDF form for download [here](/files/Piyush_CV.pdf) (updated June 12 2024)
 
 {% include base_path %}
 
