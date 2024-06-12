@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Scientist C \| April 2024
+* Scientist C \| April 2024 - Present
   * SRON Nethelands Institute for Space Research, Leiden, Netherlands
     
 * Remote Sensing Scientist (Consulting) \| November 2022 - March 2024
